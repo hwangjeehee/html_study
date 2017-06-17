@@ -1,0 +1,6 @@
+git init _ 저장소생성
+
+git status _ 폴더의 상태확인
+
+git add 파일명 _  파일올려주기
+
